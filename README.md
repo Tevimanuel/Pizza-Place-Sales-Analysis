@@ -28,6 +28,6 @@
 11. Sales by Category
 12. Sales by Size, amongst others.
 
-**Author:** [Omolaja Emmanuel]  
+**Author:** Omolaja Emmanuel 
 **Date:** July 2026  
 ---
