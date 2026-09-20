@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Sep 21 00:38:17 2026
+
+@author: USER
+"""
+
+streamlit
+pandas
