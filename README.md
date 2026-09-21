@@ -28,6 +28,9 @@
 11. Sales by Category
 12. Sales by Size, amongst others.
 
+Below is the link to my streamlit app for this project
+https://pizza-place-sales-analysis-yoguxezfmvbqhfkn9bszhf.streamlit.app/
+
 **Author:** Omolaja Emmanuel 
 **Date:** July 2026  
 ---
